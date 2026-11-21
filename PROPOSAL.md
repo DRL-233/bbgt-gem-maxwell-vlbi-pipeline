@@ -71,10 +71,13 @@ Because local gravitational field strength phase-locks the 2D holographic Poynti
 | **Venus** | $5,243$ | $5.8441 \times 10^{-4}\text{ rad/s}$ | $93.012\,\mu\text{Hz}$ | $2.986\text{ hrs}$ ($179.2\text{ min}$) |
 | **Earth** | $5,514$ | $5.9932 \times 10^{-4}\text{ rad/s}$ | $95.385\,\mu\text{Hz}$ | $2.912\text{ hrs}$ ($174.7\text{ min}$) |
 | **Mars** | $3,933$ | $5.0616 \times 10^{-4}\text{ rad/s}$ | $80.558\,\mu\text{Hz}$ | $3.448\text{ hrs}$ ($206.9\text{ min}$) |
+| **Ceres** *(Phi-Molniya planet)* | $2,162$ | $3.7528 \times 10^{-4}\text{ rad/s}$ | $59.728\,\mu\text{Hz}$ | $4.651\text{ hrs}$ ($279.1\text{ min}$) |
 | **Jupiter** *(Phase II Target)* | $1,326$ | $2.9390 \times 10^{-4}\text{ rad/s}$ | $46.776\,\mu\text{Hz}$ | $5.939\text{ hrs}$ ($356.3\text{ min}$) |
 | **Saturn** *(Phase II Target)* | $687$ | $2.1155 \times 10^{-4}\text{ rad/s}$ | $33.669\,\mu\text{Hz}$ | $8.250\text{ hrs}$ ($495.0\text{ min}$) |
 | **Uranus** | $1,271$ | $2.8774 \times 10^{-4}\text{ rad/s}$ | $45.795\,\mu\text{Hz}$ | $6.066\text{ hrs}$ ($364.0\text{ min}$) |
 | **Neptune** *(Phase II Primary Anchor)* | $1,638$ | $3.2665 \times 10^{-4}\text{ rad/s}$ | $51.988\,\mu\text{Hz}$ | $5.343\text{ hrs}$ ($320.6\text{ min}$) |
+| **Pluto** *(Phi-Molniya planet)* | $1,854$ | $3.4752 \times 10^{-4}\text{ rad/s}$ | $55.310\,\mu\text{Hz}$ | $5.022\text{ hrs}$ ($301.3\text{ min}$) |
+| **Eris** *(Phi-Molniya planet)* | $2,430$ | $3.9786 \times 10^{-4}\text{ rad/s}$ | $63.321\,\mu\text{Hz}$ | $4.387\text{ hrs}$ ($263.2\text{ min}$) |
 
 ### A4. Benchmark Simulation Values (`GRAO–HART` Reference Baseline)
 * **3D Euclidean Chord Length:** $4,533.169\text{ km}$ (Max coarse geometric delay: $15.121\text{ ms}$)
@@ -83,3 +86,7 @@ Because local gravitational field strength phase-locks the 2D holographic Poynti
   * $\text{HA} = -4.0\text{h}$: $\Delta\tau = 11.265\text{ ns} \implies \|G\| = 0.578\text{ Jy}$
   * $\text{HA} = +0.0\text{h}$: $\Delta\tau = 4.435\text{ ns} \implies \|G\| = 0.444\text{ Jy}$
   * $\text{HA} = +4.0\text{h}$: $\Delta\tau = 0.468\text{ ns} \implies \|G\| = 0.141\text{ Jy}$
+ 
+
+
+

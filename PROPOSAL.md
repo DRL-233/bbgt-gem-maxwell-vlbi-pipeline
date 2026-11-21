@@ -44,7 +44,7 @@ The containerized Python package, synthetic UVFITS test vectors, and diagnostic 
 
 ## Part II: Theoretical Hypothesis Appendix — Big Boot Gauge Theory (BBGT) & Unified GEM-Maxwell Model
 
-*(Note: The mathematical relations below define the speculative theoretical model under investigation in Phases I and II.)*
+*(Note: The mathematical relations below define the theoretical model under investigation in Phases I and II.)*
 
 ### A1. Hypothesized 4:1 Electroweak-to-Gravity ($n=2 \to n=0$) & 8:1 Einston Substrate ($n=2 \to n=-1$) Impedance Bridge
 In the proposed Big Boot Gauge Theory (BBGT) model, fundamental interactions are parameterized along a binary coupling ladder governed by the fine-structure constant ($\alpha_1 \approx 7.29735 \times 10^{-3}$) and the von Klitzing constant ($R_K = h/e^2 \approx 25,812.81\,\Omega$), with $Z_n = \alpha_n R_K = Z_2 \cdot 2^{n-2}$:
@@ -73,13 +73,13 @@ Using NASA standard mean bulk densities ($\rho$), the model predicts narrowband 
 | **Venus** | $5,243$ | $5.8441 \times 10^{-4}\text{ rad/s}$ | $93.012\,\mu\text{Hz}$ | $2.986\text{ hrs}$ ($179.2\text{ min}$) |
 | **Earth** | $5,514$ | $5.9932 \times 10^{-4}\text{ rad/s}$ | $95.385\,\mu\text{Hz}$ | $2.912\text{ hrs}$ ($174.7\text{ min}$) |
 | **Mars** | $3,933$ | $5.0616 \times 10^{-4}\text{ rad/s}$ | $80.558\,\mu\text{Hz}$ | $3.448\text{ hrs}$ ($206.9\text{ min}$) |
-| **Ceres** *(Phi-Molniya Dwarf)* | $2,162$ | $3.7528 \times 10^{-4}\text{ rad/s}$ | $59.728\,\mu\text{Hz}$ | $4.651\text{ hrs}$ ($279.1\text{ min}$) |
+| **Ceres** *(Phi-Molniya planet)* | $2,162$ | $3.7528 \times 10^{-4}\text{ rad/s}$ | $59.728\,\mu\text{Hz}$ | $4.651\text{ hrs}$ ($279.1\text{ min}$) |
 | **Jupiter** *(Phase II Target)* | $1,326$ | $2.9390 \times 10^{-4}\text{ rad/s}$ | $46.776\,\mu\text{Hz}$ | $5.939\text{ hrs}$ ($356.3\text{ min}$) |
 | **Saturn** *(Phase II Target)* | $687$ | $2.1155 \times 10^{-4}\text{ rad/s}$ | $33.669\,\mu\text{Hz}$ | $8.250\text{ hrs}$ ($495.0\text{ min}$) |
 | **Uranus** | $1,271$ | $2.8774 \times 10^{-4}\text{ rad/s}$ | $45.795\,\mu\text{Hz}$ | $6.066\text{ hrs}$ ($364.0\text{ min}$) |
 | **Neptune** *(Phase II Primary Anchor)* | $1,638$ | $3.2665 \times 10^{-4}\text{ rad/s}$ | $51.988\,\mu\text{Hz}$ | $5.343\text{ hrs}$ ($320.6\text{ min}$) |
-| **Pluto** *(Phi-Molniya Dwarf)* | $1,854$ | $3.4752 \times 10^{-4}\text{ rad/s}$ | $55.310\,\mu\text{Hz}$ | $5.022\text{ hrs}$ ($301.3\text{ min}$) |
-| **Eris** *(Phi-Molniya Dwarf)* | $2,430$ | $3.9786 \times 10^{-4}\text{ rad/s}$ | $63.321\,\mu\text{Hz}$ | $4.387\text{ hrs}$ ($263.2\text{ min}$) |
+| **Pluto** *(Phi-Molniya planet)* | $1,854$ | $3.4752 \times 10^{-4}\text{ rad/s}$ | $55.310\,\mu\text{Hz}$ | $5.022\text{ hrs}$ ($301.3\text{ min}$) |
+| **Eris** *(Phi-Molniya planet)* | $2,430$ | $3.9786 \times 10^{-4}\text{ rad/s}$ | $63.321\,\mu\text{Hz}$ | $4.387\text{ hrs}$ ($263.2\text{ min}$) |
 
 ### A4. Synthetic Benchmark Reference Values (`GRAO–HART` Baseline)
 * **3D Euclidean Chord Length:** $4,533.169\text{ km}$ (Max coarse geometric delay: $15.121\text{ ms}$)
